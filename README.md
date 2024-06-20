@@ -15,7 +15,7 @@
     </div>
   </div>
 
-### Lingugens que estou aprendendo 
+### Lingugens que estou aprendendo:
 
   <div class="technologies">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" alt="Javascript">
