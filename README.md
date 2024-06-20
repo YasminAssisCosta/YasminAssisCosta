@@ -3,15 +3,15 @@
 <body>
   <div class="container">
     <div class="profile">
-      <h1>💻 Oii!! Eu sou Yammin Costa</h1>
-      <p>🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Cesuca.</p>
-      <p>🎓 Formada em Técnico pelo Instituto Federal (IFSul).</p>
-      <p>Apaixonada por tecnologia e sempre em busca de novos desafios! 🚀</p>
+     <h1>Hello!! I am Yammin Costa</h1>
+      <p>🎓 Studying Systems Analysis and Development at Centro Universitário Cesuca.</p>
+      <p>🎓 Graduated in Technician from the Federal Institute (IFSul).</p>
+      <p>🎓 Passionate about technology and always looking for new challenges! 🚀</p>
     </div>
    
   </div>
 
-### Lingugens que estou aprendendo:
+## Skills.
 
   <div class="technologies">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" alt="Javascript">
@@ -21,15 +21,7 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PYTHON">
   </div>
   
-###
-  <div class="contact">
-    <h2>Para me contatar, acesse:</h2>
-    <a href="https://www.instagram.com/yasmi_assis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="mailto:assisyasmin593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/yasmin-assis-47072920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </div>
-
-###
+## Status Github. 
 
 <div class="github-stats" style="display: flex;">
   <a href="https://github.com/YasminAssisCosta">
@@ -41,6 +33,14 @@
 </div>
 
   </div>
+
+  ## Contac.
+  <div class="contact">
+    <a href="https://www.instagram.com/yasmi_assis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="mailto:assisyasmin593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/yasmin-assis-47072920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </div>
+
 
 
 
