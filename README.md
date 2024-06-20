@@ -3,7 +3,7 @@
 <body>
   <div class="container">
     <div class="profile">
-     <h1>Hello!! I am Yammin Costa</h1>
+     <h1>Hello!! I am Yasmin Assis Costa</h1>
       <p>🎓 Studying Systems Analysis and Development at Centro Universitário Cesuca.</p>
       <p>🎓 Graduated in Technician from the Federal Institute (IFSul).</p>
       <p>🎓 Passionate about technology and always looking for new challenges! 🚀</p>
