@@ -33,10 +33,10 @@
 
 <div class="github-stats" style="display: flex; align-items: center;">
   <a href="https://github.com/YasminAssisCosta">
-    <img width="400em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminAssisCosta&layout=compact&langs_count=5&theme=dracula" alt="Top Langs" />
+    <img width="300em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminAssisCosta&layout=compact&langs_count=5&theme=dracula" alt="Top Langs" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img  height="190em" width="500em" src="https://streak-stats.demolab.com?user=YasminAssisCosta&theme=dracula" alt="GitHub Streak"  />
+    <img  height="190em" width="400em" src="https://streak-stats.demolab.com?user=YasminAssisCosta&theme=dracula" alt="GitHub Streak"  />
   </a>
 </div>
 
