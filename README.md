@@ -31,11 +31,15 @@
 
 ###
 
- <div class="github-stats d-flex" >
-      <a href="https://github.com/YasminAssisCosta">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminAssisCosta&layout=compact&langs_count=5&theme=dracula"/>
-      </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YasminAssisCosta&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+<div class="github-stats" style="display: flex; align-items: center;">
+  <a href="https://github.com/YasminAssisCosta">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminAssisCosta&layout=compact&langs_count=5&theme=dracula" alt="Top Langs" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YasminAssisCosta&theme=dracula" alt="GitHub Streak" style="height: 195px;" />
+  </a>
+</div>
+
 
 
   </div>
