@@ -34,6 +34,8 @@
 </div>
 
   </div>
+  <img src="https://raw.githubusercontent.com/YasminAssisCosta/YasminAssisCosta/output/snake.svg" alt="Snake animation" />
+
 
   ## Contac.
   <div class="contact">
